@@ -34,4 +34,4 @@ Community Engagement:
 Hub for Community Engagement: Beyond festival information, our website serves as a platform for interaction, collaboration, and shared learning. Attendees and organizers alike can connect, fostering a sense of community and collective action. By integrating these features, we aim to not only inform and inspire but also create an immersive and inclusive online experience for all Eco Eden California visitors.
 
 # Acknowledgement
-
+The layout of the Eco Eden California website was heavily inspired by the previous work of Anna Pham. Her innovative design concepts and commitment to creating intuitive and visually appealing layouts have greatly influenced my project. 
